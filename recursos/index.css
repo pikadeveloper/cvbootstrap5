@@ -52,6 +52,12 @@ aside ul li{
     list-style: none;
     margin: 10px 0px;
 }
+.row>.col, .row>[class^="col-"] {
+    padding-top: .90rem;
+    padding-bottom: .90rem;
+    background-color: rgba(#fbc50e, 0.90);
+    border: 2px solid rgba(39,41,43,0.3);
+}
 .habilidades{
     width: 100%;
     margin: 10%;
@@ -109,6 +115,7 @@ aside ul li{
         padding: 5%;
         text-align: center;
         margin: auto;
+        background-color: #fbc50e;
     }
     #foto{  
         margin: 15%;
