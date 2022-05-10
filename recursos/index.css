@@ -24,18 +24,6 @@ body{
     border-right: 300px;
     border-radius: 500%;
 }
-header{
-    background-color: #fbc50e;
-    opacity: 0.95;
-}
-aside{
-    background-color: #fbc50e;
-    opacity: 0.95;
-}
-menu{
-    background-color: #fbc50e;
-    opacity: 0.95;
-}
 menu ul{
     position: relative;
 }
