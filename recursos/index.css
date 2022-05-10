@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+* {  
+    margin: 0px;
+    padding: 0px
+}
+
+body{
+    background: url(img/background.svg);
+}
+#foto{  
+    width: 250px;
+    margin: 3%;
+    margin-right: 15%;
+    float: right;
+    border-right: 300px;
+    border-radius: 500%;
+}
+header{
+    background-color: #fbc50e;
+    opacity: 0.95;
+}
+aside{
+    background-color: #fbc50e;
+    opacity: 0.95;
+}
+menu{
+    background-color: #fbc50e;
+    opacity: 0.95;
+}
